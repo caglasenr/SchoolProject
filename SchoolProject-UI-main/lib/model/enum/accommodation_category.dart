@@ -1,0 +1,4 @@
+enum AccommodationCategory{
+  hotel,
+  restaurant
+}
