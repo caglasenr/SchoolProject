@@ -1,0 +1,4 @@
+enum PlaceCategory{
+  museum,
+  historical
+}
